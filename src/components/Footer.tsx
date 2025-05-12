@@ -70,13 +70,13 @@ const Footer: React.FC = () => {
               <li className="flex items-center">
                 <Mail className="h-5 w-5 text-green-400 mr-3" />
                 <a href="mailto:contact@artbyte.tech" className="text-gray-400 hover:text-white transition-colors">
-                  contact@artbyte.tech
+                  artbyte4@gmail.com
                 </a>
               </li>
               <li className="flex items-center">
                 <Phone className="h-5 w-5 text-green-400 mr-3" />
                 <a href="tel:+5712345678" className="text-gray-400 hover:text-white transition-colors">
-                  +57 (1) 234 5678
+                  +57 3227173488
                 </a>
               </li>
             </ul>
