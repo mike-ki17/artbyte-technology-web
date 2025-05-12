@@ -62,7 +62,7 @@ const AboutPage: React.FC = () => {
             </div>
             <div className="rounded-xl overflow-hidden shadow-xl">
               <img 
-                src="https://images.pexels.com/photos/3861958/pexels-photo-3861958.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                src="https://ik.imagekit.io/yjcg0b5mfartbyte/Logo%20Artbyte-Technology/Banner-artbyte.png?updatedAt=1747085700971" 
                 alt="Artbyte Technology Team" 
                 className="w-full"
               />
@@ -137,13 +137,13 @@ const AboutPage: React.FC = () => {
             <div className="bg-gray-50 rounded-xl overflow-hidden shadow-lg transform transition duration-300 hover:scale-105">
               <div className="h-48 bg-gray-200">
                 <img 
-                  src="https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                  src="https://ik.imagekit.io/yjcg0b5mfartbyte/Logo%20Artbyte-Technology/mike.jpg?updatedAt=1747084793702" 
                   alt="Team Member" 
                   className="w-full h-full object-cover"
                 />
               </div>
               <div className="p-6">
-                <h3 className="text-xl font-bold text-navy-900">Alejandro Martínez</h3>
+                <h3 className="text-xl font-bold text-navy-900">Michael Castro</h3>
                 <p className="text-green-600 mb-4">Project Lead & Software Developer</p>
                 <p className="text-gray-600 text-sm">
                   Leads the development of the Tatu social network and coordinates the integration with the autonomous machine.
@@ -155,13 +155,13 @@ const AboutPage: React.FC = () => {
             <div className="bg-gray-50 rounded-xl overflow-hidden shadow-lg transform transition duration-300 hover:scale-105">
               <div className="h-48 bg-gray-200">
                 <img 
-                  src="https://images.pexels.com/photos/3778680/pexels-photo-3778680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                  src="https://ik.imagekit.io/yjcg0b5mfartbyte/Logo%20Artbyte-Technology/juan1.jpg?updatedAt=1747085112267" 
                   alt="Team Member" 
                   className="w-full h-full object-cover"
                 />
               </div>
               <div className="p-6">
-                <h3 className="text-xl font-bold text-navy-900">Valentina Rojas</h3>
+                <h3 className="text-xl font-bold text-navy-900">Juan Higuera</h3>
                 <p className="text-green-600 mb-4">UX/UI Designer</p>
                 <p className="text-gray-600 text-sm">
                   Creates intuitive and beautiful interfaces for the Tatu application, enhancing user experience.
@@ -173,13 +173,13 @@ const AboutPage: React.FC = () => {
             <div className="bg-gray-50 rounded-xl overflow-hidden shadow-lg transform transition duration-300 hover:scale-105">
               <div className="h-48 bg-gray-200">
                 <img 
-                  src="https://images.pexels.com/photos/2589653/pexels-photo-2589653.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                  src="https://ik.imagekit.io/yjcg0b5mfartbyte/Logo%20Artbyte-Technology/cris.jpg?updatedAt=1747085110896" 
                   alt="Team Member" 
                   className="w-full h-full object-cover"
                 />
               </div>
               <div className="p-6">
-                <h3 className="text-xl font-bold text-navy-900">Daniel Herrera</h3>
+                <h3 className="text-xl font-bold text-navy-900">Cristian Muñoz</h3>
                 <p className="text-green-600 mb-4">Mechatronics Engineer</p>
                 <p className="text-gray-600 text-sm">
                   Designs and builds the mechanical components of the autonomous tattooing machine.
@@ -191,13 +191,13 @@ const AboutPage: React.FC = () => {
             <div className="bg-gray-50 rounded-xl overflow-hidden shadow-lg transform transition duration-300 hover:scale-105">
               <div className="h-48 bg-gray-200">
                 <img 
-                  src="https://images.pexels.com/photos/5882727/pexels-photo-5882727.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                  src="https://ik.imagekit.io/yjcg0b5mfartbyte/Logo%20Artbyte-Technology/gerald.jpg?updatedAt=1747085112293" 
                   alt="Team Member" 
                   className="w-full h-full object-cover"
                 />
               </div>
               <div className="p-6">
-                <h3 className="text-xl font-bold text-navy-900">Camila Torres</h3>
+                <h3 className="text-xl font-bold text-navy-900">Gerald Palacios</h3>
                 <p className="text-green-600 mb-4">AI & Machine Learning Specialist</p>
                 <p className="text-gray-600 text-sm">
                   Develops the AI tattoo visualization technology and machine learning algorithms for the project.
@@ -283,7 +283,7 @@ const AboutPage: React.FC = () => {
               <h2 className="text-3xl font-bold text-navy-900 mb-6">Our Campus</h2>
               <div className="rounded-xl overflow-hidden shadow-lg h-96">
                 <img 
-                  src="https://images.pexels.com/photos/2883380/pexels-photo-2883380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                  src="https://ik.imagekit.io/yjcg0b5mfartbyte/Logo%20Artbyte-Technology/th-1867629470.jpeg?updatedAt=1747085258564" 
                   alt="Universidad de San Buenaventura Campus" 
                   className="w-full h-full object-cover"
                 />

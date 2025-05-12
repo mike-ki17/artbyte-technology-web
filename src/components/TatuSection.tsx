@@ -23,7 +23,7 @@ const TatuSection: React.FC = () => {
             <div className="w-3/4 mx-auto relative z-10">
               <div className="rounded-3xl overflow-hidden border-8 border-navy-900 shadow-2xl">
                 <img 
-                  src="https://images.pexels.com/photos/6956903/pexels-photo-6956903.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                  src="https://ik.imagekit.io/yjcg0b5mfartbyte/Logo%20Artbyte-Technology/WhatsApp%20Image%202024-05-09%20at%202.24.33%20PM.jpeg?updatedAt=1747085781063" 
                   alt="Tatu App Interface" 
                   className="w-full"
                 />
